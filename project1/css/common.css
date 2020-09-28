@@ -1,0 +1,44 @@
+header {
+	text-align: center;
+	list-style: none;
+	background-color: lightblue;
+	margin: 0px;
+	padding: 5px;
+}
+
+nav {
+	text-align: center;
+	list-style: none;
+	background-color: rgb(29, 26, 205);
+	font-size: 20px;
+	margin: 5px 0px 5px 0px;
+}
+
+nav li {
+	color: #CDBA1A;
+}
+
+nav a, nav a:visited{
+	color: #FFFF00;
+}
+
+nav a:hover {
+	color: #CD1A1A;
+}
+
+ul > li {
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+}
+
+li > a {
+	text-decoration: none;
+}
+
+footer{
+	background-color: lightblue;
+	padding-top: 0px;
+	clear: both;
+	text-align: center;
+}
